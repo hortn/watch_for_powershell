@@ -6,7 +6,7 @@ just add this code to your PS profile(for example C:\Windows\System32\WindowsPow
 
 
 ---
-How to us it:
+How to use it:
 "Watch %some command% %timeout% " - default timeout 1s
 
 for example:
